@@ -3,3 +3,4 @@
 *.PNG
 *.jpg
 *.png
+!favicon.png
